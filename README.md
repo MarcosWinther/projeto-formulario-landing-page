@@ -1,5 +1,5 @@
 # Projeto Landing Page formulário
-Formulário baseado na videoaula da Larissa Kich do YouTube e nos cursos da Trilha do CSS da DIO.
+Formulário baseado na videoaula da Larissa Kich do YouTube.
 
 Este projeto teve como objetivo criar uma landing page de página de contato.
 
